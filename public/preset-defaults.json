@@ -1,18 +1,18 @@
 {
   "akechi": {
     "displayName": "Goro Akechi",
-    "defaultSpeakerName": "Goro Akechi",
-    "defaultHighlightIndices": [0]
+    "defaultSpeakerName": "Akechi",
+    "defaultHighlightIndices": [1]
   },
   "ann": {
     "displayName": "Ann Takamaki",
-    "defaultSpeakerName": "Ann Takamaki",
-    "defaultHighlightIndices": [0]
+    "defaultSpeakerName": "Ann",
+    "defaultHighlightIndices": [1]
   },
   "chihaya_mifune": {
     "displayName": "Chihaya Mifune",
-    "defaultSpeakerName": "Chihaya Mifune",
-    "defaultHighlightIndices": [0]
+    "defaultSpeakerName": "Chihaya",
+    "defaultHighlightIndices": [2]
   },
   "coach_hiraguchi": {
     "displayName": "Coach Hiraguchi",
@@ -21,117 +21,117 @@
   },
   "futaba": {
     "displayName": "Futaba Sakura",
-    "defaultSpeakerName": "Futaba Sakura",
-    "defaultHighlightIndices": [0]
+    "defaultSpeakerName": "Futaba",
+    "defaultHighlightIndices": [1]
   },
   "haru": {
     "displayName": "Haru Okumura",
-    "defaultSpeakerName": "Haru Okumura",
-    "defaultHighlightIndices": [0]
+    "defaultSpeakerName": "Haru",
+    "defaultHighlightIndices": [1]
   },
   "hifumi_togo": {
     "displayName": "Hifumi Togo",
-    "defaultSpeakerName": "Hifumi Togo",
-    "defaultHighlightIndices": [0]
+    "defaultSpeakerName": "Hifumi",
+    "defaultHighlightIndices": [1]
   },
   "ichiko_ohya": {
     "displayName": "Ichiko Ohya",
-    "defaultSpeakerName": "Ichiko Ohya",
-    "defaultHighlightIndices": [0]
+    "defaultSpeakerName": "Ohya",
+    "defaultHighlightIndices": [1]
   },
   "igor": {
     "displayName": "Igor",
     "defaultSpeakerName": "Igor",
-    "defaultHighlightIndices": [0]
+    "defaultHighlightIndices": [1]
   },
   "jose": {
     "displayName": "Jose",
     "defaultSpeakerName": "Jose",
-    "defaultHighlightIndices": [0]
+    "defaultHighlightIndices": [1]
   },
   "kasumi": {
     "displayName": "Kasumi Yoshizawa",
-    "defaultSpeakerName": "Kasumi Yoshizawa",
-    "defaultHighlightIndices": [0]
+    "defaultSpeakerName": "Kasumi",
+    "defaultHighlightIndices": [1]
   },
   "lavenza": {
     "displayName": "Lavenza",
     "defaultSpeakerName": "Lavenza",
-    "defaultHighlightIndices": [0]
+    "defaultHighlightIndices": [2]
   },
   "makoto": {
     "displayName": "Makoto Niijima",
-    "defaultSpeakerName": "Makoto Niijima",
-    "defaultHighlightIndices": [0]
+    "defaultSpeakerName": "Makoto",
+    "defaultHighlightIndices": [1]
   },
   "morgana": {
     "displayName": "Morgana",
     "defaultSpeakerName": "Morgana",
-    "defaultHighlightIndices": [0]
+    "defaultHighlightIndices": [2]
   },
   "rumi": {
     "displayName": "Rumi",
     "defaultSpeakerName": "Rumi",
-    "defaultHighlightIndices": [0]
+    "defaultHighlightIndices": [1]
   },
   "ryuji": {
     "displayName": "Ryuji Sakamoto",
-    "defaultSpeakerName": "Ryuji Sakamoto",
-    "defaultHighlightIndices": [0]
+    "defaultSpeakerName": "Ryuji",
+    "defaultHighlightIndices": [1]
   },
   "sadayo_kawakami": {
     "displayName": "Sadayo Kawakami",
-    "defaultSpeakerName": "Sadayo Kawakami",
-    "defaultHighlightIndices": [0]
+    "defaultSpeakerName": "Kawakami",
+    "defaultHighlightIndices": [2]
   },
   "sae_niijima": {
     "displayName": "Sae Niijima",
-    "defaultSpeakerName": "Sae Niijima",
-    "defaultHighlightIndices": [0]
+    "defaultSpeakerName": "Sae",
+    "defaultHighlightIndices": [1]
   },
   "shibusawa": {
     "displayName": "Shibusawa",
     "defaultSpeakerName": "Shibusawa",
-    "defaultHighlightIndices": [0]
+    "defaultHighlightIndices": [2,7]
   },
   "shiho_suzui": {
     "displayName": "Shiho Suzui",
-    "defaultSpeakerName": "Shiho Suzui",
-    "defaultHighlightIndices": [0]
+    "defaultSpeakerName": "Shiho",
+    "defaultHighlightIndices": [1]
   },
   "shinichi_yoshizawa": {
     "displayName": "Shinichi Yoshizawa",
     "defaultSpeakerName": "Shinichi Yoshizawa",
-    "defaultHighlightIndices": [0]
+    "defaultHighlightIndices": [0,5,14]
   },
   "sojiro_sakura": {
     "displayName": "Sojiro Sakura",
-    "defaultSpeakerName": "Sojiro Sakura",
-    "defaultHighlightIndices": [0]
+    "defaultSpeakerName": "Sojiro",
+    "defaultHighlightIndices": [1]
   },
   "tae_takemi": {
     "displayName": "Tae Takemi",
-    "defaultSpeakerName": "Tae Takemi",
-    "defaultHighlightIndices": [0]
+    "defaultSpeakerName": "Takemi",
+    "defaultHighlightIndices": [1]
   },
   "takuto_maruki": {
     "displayName": "Takuto Maruki",
-    "defaultSpeakerName": "Takuto Maruki",
-    "defaultHighlightIndices": [0]
+    "defaultSpeakerName": "Maruki",
+    "defaultHighlightIndices": [1]
   },
   "wakaba_isshiki": {
     "displayName": "Wakaba Isshiki",
-    "defaultSpeakerName": "Wakaba Isshiki",
-    "defaultHighlightIndices": [0]
+    "defaultSpeakerName": "Wakaba",
+    "defaultHighlightIndices": [1]
   },
   "yusuke": {
     "displayName": "Yusuke Kitagawa",
-    "defaultSpeakerName": "Yusuke Kitagawa",
-    "defaultHighlightIndices": [0]
+    "defaultSpeakerName": "Yusuke",
+    "defaultHighlightIndices": [1]
   },
   "yuuki_mishima": {
     "displayName": "Yuuki Mishima",
-    "defaultSpeakerName": "Yuuki Mishima",
-    "defaultHighlightIndices": [0]
+    "defaultSpeakerName": "Mishima",
+    "defaultHighlightIndices": [2]
   }
 }
