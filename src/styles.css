@@ -119,3 +119,16 @@ button.link {
 }
 
 .preview p { color: #8b919c; font-size: 12px; }
+
+.preview .preview-legal {
+  max-width: 1100px;
+  margin: 0;
+  color: #6f7580;
+  font-size: 11px;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.preview .preview-legal a {
+  color: #8ab4ff;
+}
