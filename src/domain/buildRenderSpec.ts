@@ -21,10 +21,10 @@ export function buildRenderSpec(form: AnimatorFormState, manifest?: BackgroundMa
   const backgroundPresetName = resolveBackgroundPreset(form.backgroundChoice, manifest)
 
   let background: BackgroundSource
-  if (form.backgroundChoice === 'green') {
-    background = { kind: 'green' }
-  } else if (form.backgroundChoice === 'upload' && form.backgroundUploadUrl) {
+  if (form.backgroundUploadUrl) {
     background = { kind: 'upload', url: form.backgroundUploadUrl }
+  } else if (form.backgroundChoice === 'green') {
+    background = { kind: 'green' }
   } else {
     background = { kind: 'preset', name: backgroundPresetName }
   }

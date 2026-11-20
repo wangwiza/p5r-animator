@@ -17,28 +17,24 @@ export function BackgroundControls({ store, form, updateForm }: BackgroundContro
         <select
           value={form.backgroundChoice}
           onChange={(event) => updateForm({ backgroundChoice: event.target.value })}
+          disabled={!!form.backgroundUploadUrl}
         >
-          <optgroup label="Presets">
-            {Object.keys(store.backgroundManifest.items).map((key) => (
-              <option key={key} value={`preset:${key}`}>
-                {formatName(key)}
-              </option>
-            ))}
-          </optgroup>
-          <option value="green">Greenscreen</option>
-          <option value="upload">Upload image</option>
+          {Object.keys(store.backgroundManifest.items).map((key) => (
+            <option key={key} value={`preset:${key}`}>
+              {formatName(key)}
+            </option>
+          ))}
+          <option value="green">greenscreen</option>
         </select>
       </Field>
 
-      {form.backgroundChoice === 'upload' && (
-        <FilePicker
-          label="Background image (1920×1080 recommended)"
-          accept="image/png,image/webp,image/jpeg"
-          value={form.backgroundUploadUrl}
-          clearLabel="Clear background upload"
-          onChange={(url) => updateForm({ backgroundUploadUrl: url })}
-        />
-      )}
+      <FilePicker
+        label="Or upload a background (1920×1080 recommended)"
+        accept="image/png,image/webp,image/jpeg"
+        value={form.backgroundUploadUrl}
+        clearLabel="Clear background upload and use presets"
+        onChange={(url) => updateForm({ backgroundUploadUrl: url })}
+      />
     </>
   )
 }

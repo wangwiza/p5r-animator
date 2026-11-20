@@ -32,6 +32,11 @@ export function PreviewCanvas({ canvasRef }: PreviewCanvasProps) {
         owners.
       </p>
       <p className="preview-repo">
+        Built by{' '}
+        <a href="https://github.com/wangwiza" target="_blank" rel="noreferrer">
+          wangwiza
+        </a>
+        {' · '}
         <a
           href="https://github.com/wangwiza/p5r-animator"
           target="_blank"
