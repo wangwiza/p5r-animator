@@ -1,13 +1,13 @@
 import type { AnimatorFormState } from './form'
 
 export const DEFAULT_DIALOGUE =
-  'This is a custom dialogue! Type anything you like, then export a clip ready for your editor.'
+  "For real?!?! You're treating me to poutine?!?!"
 
-export const DEFAULT_CHARACTER_ID = 'lavenza'
+export const DEFAULT_CHARACTER_ID = 'ryuji'
 export const DEFAULT_BACKGROUND_CHOICE = 'preset:montreal'
 export const DEFAULT_BACKGROUND_PRESET = 'montreal'
-export const DEFAULT_NAME = 'Lavenza'
-export const DEFAULT_HIGHLIGHT_INDICES = '0'
+export const DEFAULT_NAME = 'Ryuji'
+export const DEFAULT_HIGHLIGHT_INDICES = '1'
 export const DEFAULT_HOLD_SECONDS = 4
 export const DEFAULT_DOWNLOAD_NAME = 'p5r-dialogue.mp4'
 

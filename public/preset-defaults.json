@@ -77,7 +77,8 @@
   "ryuji": {
     "displayName": "Ryuji Sakamoto",
     "defaultSpeakerName": "Ryuji",
-    "defaultHighlightIndices": [1]
+    "defaultHighlightIndices": [1],
+    "defaultVariantId": "b002_004_01"
   },
   "sadayo_kawakami": {
     "displayName": "Sadayo Kawakami",
