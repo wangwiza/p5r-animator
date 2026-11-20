@@ -20,15 +20,19 @@ body { margin: 0; }
 
 .app {
   display: grid;
-  grid-template-columns: 360px 1fr;
-  min-height: 100vh;
+  grid-template-columns: 360px minmax(0, 1fr);
+  height: 100vh;
+  height: 100dvh;
+  overflow: hidden;
 }
 
 .controls {
   padding: 24px;
   border-right: 1px solid #2a2d33;
   background: #16171b;
+  min-height: 0;
   overflow-y: auto;
+  overscroll-behavior: contain;
 }
 
 h1 { font-size: 22px; margin: 0 0 4px; }
@@ -100,6 +104,8 @@ button.link {
 .progress > div { height: 100%; background: #c8102e; transition: width 0.2s; }
 
 .preview {
+  position: sticky;
+  top: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -107,11 +113,15 @@ button.link {
   gap: 12px;
   padding: 24px;
   min-width: 0;
+  min-height: 0;
+  height: 100vh;
+  height: 100dvh;
+  overflow: hidden;
 }
 
 .preview canvas {
   width: 100%;
-  max-width: 1100px;
+  width: min(100%, 1100px, calc((100dvh - 170px) * 16 / 9));
   height: auto;
   background: #00ff00;
   border: 1px solid #2a2d33;
@@ -131,4 +141,27 @@ button.link {
 
 .preview .preview-legal a {
   color: #8ab4ff;
+}
+
+@media (max-width: 800px) {
+  .app {
+    display: block;
+    height: auto;
+    overflow: visible;
+  }
+
+  .controls {
+    height: auto;
+    overflow: visible;
+  }
+
+  .preview {
+    position: static;
+    height: auto;
+    overflow: visible;
+  }
+
+  .preview canvas {
+    width: 100%;
+  }
 }
