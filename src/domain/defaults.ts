@@ -1,7 +1,7 @@
 import type { AnimatorFormState } from './form'
 
 export const DEFAULT_DIALOGUE =
-  "For real?!?! You're treating me to poutine?!?!"
+  "For real!? You're treating me to poutine!?"
 
 export const DEFAULT_CHARACTER_ID = 'ryuji'
 export const DEFAULT_BACKGROUND_CHOICE = 'preset:montreal'
