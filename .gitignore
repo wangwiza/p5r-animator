@@ -1,0 +1,10 @@
+__pycache__
+.venv/
+node_modules/
+dist/
+dist-server/
+tools/*
+!tools/generate-presets.mjs
+assets/
+scripts/
+*.log

@@ -1,0 +1,25 @@
+{
+  "name": "p5r-dialogue-animator",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -p tsconfig.json && vite build",
+    "preview": "vite preview --host",
+    "generate:presets": "node tools/generate-presets.mjs",
+    "generate:presets:manifest": "node tools/generate-presets.mjs --manifest-only"
+  },
+  "dependencies": {
+    "mediabunny": "^1.66.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.7.3",
+    "vite": "^6.1.0"
+  }
+}

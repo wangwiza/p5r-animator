@@ -1,0 +1,137 @@
+{
+  "akechi": {
+    "displayName": "Goro Akechi",
+    "defaultSpeakerName": "Goro Akechi",
+    "defaultHighlightIndices": [0]
+  },
+  "ann": {
+    "displayName": "Ann Takamaki",
+    "defaultSpeakerName": "Ann Takamaki",
+    "defaultHighlightIndices": [0]
+  },
+  "chihaya_mifune": {
+    "displayName": "Chihaya Mifune",
+    "defaultSpeakerName": "Chihaya Mifune",
+    "defaultHighlightIndices": [0]
+  },
+  "coach_hiraguchi": {
+    "displayName": "Coach Hiraguchi",
+    "defaultSpeakerName": "Coach Hiraguchi",
+    "defaultHighlightIndices": [0, 6, 14]
+  },
+  "futaba": {
+    "displayName": "Futaba Sakura",
+    "defaultSpeakerName": "Futaba Sakura",
+    "defaultHighlightIndices": [0]
+  },
+  "haru": {
+    "displayName": "Haru Okumura",
+    "defaultSpeakerName": "Haru Okumura",
+    "defaultHighlightIndices": [0]
+  },
+  "hifumi_togo": {
+    "displayName": "Hifumi Togo",
+    "defaultSpeakerName": "Hifumi Togo",
+    "defaultHighlightIndices": [0]
+  },
+  "ichiko_ohya": {
+    "displayName": "Ichiko Ohya",
+    "defaultSpeakerName": "Ichiko Ohya",
+    "defaultHighlightIndices": [0]
+  },
+  "igor": {
+    "displayName": "Igor",
+    "defaultSpeakerName": "Igor",
+    "defaultHighlightIndices": [0]
+  },
+  "jose": {
+    "displayName": "Jose",
+    "defaultSpeakerName": "Jose",
+    "defaultHighlightIndices": [0]
+  },
+  "kasumi": {
+    "displayName": "Kasumi Yoshizawa",
+    "defaultSpeakerName": "Kasumi Yoshizawa",
+    "defaultHighlightIndices": [0]
+  },
+  "lavenza": {
+    "displayName": "Lavenza",
+    "defaultSpeakerName": "Lavenza",
+    "defaultHighlightIndices": [0]
+  },
+  "makoto": {
+    "displayName": "Makoto Niijima",
+    "defaultSpeakerName": "Makoto Niijima",
+    "defaultHighlightIndices": [0]
+  },
+  "morgana": {
+    "displayName": "Morgana",
+    "defaultSpeakerName": "Morgana",
+    "defaultHighlightIndices": [0]
+  },
+  "rumi": {
+    "displayName": "Rumi",
+    "defaultSpeakerName": "Rumi",
+    "defaultHighlightIndices": [0]
+  },
+  "ryuji": {
+    "displayName": "Ryuji Sakamoto",
+    "defaultSpeakerName": "Ryuji Sakamoto",
+    "defaultHighlightIndices": [0]
+  },
+  "sadayo_kawakami": {
+    "displayName": "Sadayo Kawakami",
+    "defaultSpeakerName": "Sadayo Kawakami",
+    "defaultHighlightIndices": [0]
+  },
+  "sae_niijima": {
+    "displayName": "Sae Niijima",
+    "defaultSpeakerName": "Sae Niijima",
+    "defaultHighlightIndices": [0]
+  },
+  "shibusawa": {
+    "displayName": "Shibusawa",
+    "defaultSpeakerName": "Shibusawa",
+    "defaultHighlightIndices": [0]
+  },
+  "shiho_suzui": {
+    "displayName": "Shiho Suzui",
+    "defaultSpeakerName": "Shiho Suzui",
+    "defaultHighlightIndices": [0]
+  },
+  "shinichi_yoshizawa": {
+    "displayName": "Shinichi Yoshizawa",
+    "defaultSpeakerName": "Shinichi Yoshizawa",
+    "defaultHighlightIndices": [0]
+  },
+  "sojiro_sakura": {
+    "displayName": "Sojiro Sakura",
+    "defaultSpeakerName": "Sojiro Sakura",
+    "defaultHighlightIndices": [0]
+  },
+  "tae_takemi": {
+    "displayName": "Tae Takemi",
+    "defaultSpeakerName": "Tae Takemi",
+    "defaultHighlightIndices": [0]
+  },
+  "takuto_maruki": {
+    "displayName": "Takuto Maruki",
+    "defaultSpeakerName": "Takuto Maruki",
+    "defaultHighlightIndices": [0]
+  },
+  "wakaba_isshiki": {
+    "displayName": "Wakaba Isshiki",
+    "defaultSpeakerName": "Wakaba Isshiki",
+    "defaultHighlightIndices": [0]
+  },
+  "yusuke": {
+    "displayName": "Yusuke Kitagawa",
+    "defaultSpeakerName": "Yusuke Kitagawa",
+    "defaultHighlightIndices": [0]
+  },
+  "yuuki_mishima": {
+    "displayName": "Yuuki Mishima",
+    "defaultSpeakerName": "Yuuki Mishima",
+    "defaultHighlightIndices": [0]
+  }
+}

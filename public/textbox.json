@@ -1,0 +1,17 @@
+{
+  "sheet": "textbox.webp",
+  "cellWidth": 1205,
+  "cellHeight": 382,
+  "cols": 8,
+  "fps": 30,
+  "enterFrames": 19,
+  "loopFrames": 20,
+  "frameRepeat": 1,
+  "exitFrames": 0,
+  "crop": {
+    "x": 445,
+    "y": 698,
+    "width": 1205,
+    "height": 382
+  }
+}

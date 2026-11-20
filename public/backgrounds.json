@@ -1,0 +1,6 @@
+{
+  "default": "montreal",
+  "items": {
+    "montreal": "backgrounds/montreal.webp"
+  }
+}
