@@ -31,6 +31,15 @@ export function PreviewCanvas({ canvasRef }: PreviewCanvasProps) {
         . Not affiliated with or endorsed by ATLUS or SEGA. Rights remain with their respective
         owners.
       </p>
+      <p className="preview-repo">
+        <a
+          href="https://github.com/wangwiza/p5r-animator"
+          target="_blank"
+          rel="noreferrer"
+        >
+          View source on GitHub
+        </a>
+      </p>
     </section>
   )
 }

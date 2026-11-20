@@ -139,8 +139,13 @@ button.link {
   text-align: center;
 }
 
-.preview .preview-legal a {
+.preview .preview-legal a,
+.preview .preview-repo a {
   color: #8ab4ff;
+}
+
+.preview .preview-repo {
+  margin: 0;
 }
 
 @media (max-width: 800px) {
