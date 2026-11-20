@@ -4,8 +4,8 @@ import { clamp01 } from '../math'
 export function nameMotion(timeline: Timeline, time: number): { y: number; angle: number } {
   const keys = [
     { t: timeline.nameAppearAt, y: 0, angle: 0 },
-    { t: timeline.nameSwingAt, y: 8, angle: 2 },
-    { t: timeline.nameBounceAt, y: -4, angle: -1 },
+    { t: timeline.nameSwingAt, y: 12, angle: 2 },
+    { t: timeline.nameBounceAt, y: -2, angle: -1 },
     { t: timeline.nameSettleAt, y: 0, angle: 0 },
   ]
 

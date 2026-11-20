@@ -1,7 +1,7 @@
 import type { RenderSpec, TextboxManifest, Timeline } from './types'
 
-const PORTRAIT_ENTER_DURATION = 0.18
-const PORTRAIT_FADE_DURATION = 0.3
+const PORTRAIT_ENTER_DURATION = 0.12
+const PORTRAIT_FADE_DURATION = 0.12
 
 export function computeTimeline(spec: RenderSpec, manifest: TextboxManifest): Timeline {
   const frameDuration = 1 / manifest.fps
